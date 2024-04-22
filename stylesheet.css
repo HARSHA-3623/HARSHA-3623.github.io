@@ -87,6 +87,7 @@ body{
   animation-delay: 1s;
 }
 .home-content p{
+  text-align: justify;
   font-size: 20px;
   opacity: 0;
   animation: slideLeft 1s ease forwards;
@@ -167,6 +168,8 @@ body{
   margin: 10px 0 20px;
 }
 .about-text p{
+  text-align: justify;
+  width: 90%;
   color: aliceblue;
   font-size: 20px;
   line-height: 1.4;
@@ -615,6 +618,7 @@ section {
 }
 
 .contact-text p {
+  text-align: justify;
   color: rgb(177, 177, 177);
   font-size: 20px;
   line-height: 30px;
